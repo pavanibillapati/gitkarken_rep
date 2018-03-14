@@ -1,0 +1,5 @@
+gdm:x:121:127:Gnome Display Manager:/var/lib/gdm3:/bin/false
+fullstack:x:1000:1000:fullstack,,,:/home/fullstack:/bin/bash
+pavani:x:1001:1001:pavani,,,:/home/pavani:/bin/bash
+pavanib:x:1002:1002:pavanib,,,:/home/pavanib:/bin/bash
+pavanibillapati:x:1003:1003:pavanibillapati,,,:/home/pavanibillapati:/bin/bash
